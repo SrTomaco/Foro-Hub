@@ -1,4 +1,4 @@
-  ForoHub 
+# ForoHub 
 
 **ForoHub** es una API REST de tópicos con **Spring Boot 3**, **JWT**, **Swagger UI** y **H2** en memoria para desarrollo.
 
