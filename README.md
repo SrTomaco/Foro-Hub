@@ -1,6 +1,6 @@
-# ForoHub 
+# Foro Hub 
 
-**ForoHub** es una API REST de tópicos con **Spring Boot 3**, **JWT**, **Swagger UI** y **H2** en memoria para desarrollo.
+**Foro Hub** es una API REST de tópicos con **Spring Boot 3**, **JWT**, **Swagger UI** y **H2** en memoria para desarrollo.
 
 ## Demo en IntelliJ IDEA
 1. Abrí el proyecto (`pom.xml`) → *Open as Project*.
@@ -8,7 +8,7 @@
 3. Ejecutá `com.alura.forohub.ForoHubApplication`.
 
 **URLs clave**
-- Swagger UI: `http://localhost:8080/swagger-ui.html` (branding personalizado “ForoHub”, modo oscuro, neon suave).
+- Swagger UI: `http://localhost:8080/swagger-ui.html` (branding personalizado “ForoHub”).
 - H2 Console (opcional): `http://localhost:8080/h2-console` — JDBC: `jdbc:h2:mem:foro_hub` (user: `sa`, pass vacío).
 
 ## Autenticación
